@@ -1,128 +1,27 @@
+# 💫 About Me:
+<br> 👨‍💻  Final year Computer Engineering student with a passion for technology and innovation.<br><br>🚀<strong> Skills : </strong> <br>   - Proficient in the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br>   - Strong foundation in web development, RESTful APIs, and full-stack applications.<br><br> <strong>🌐 Web Development : </strong> <br>   - Developed interactive and responsive web applications.<br>   - Implemented front-end designs using modern frameworks like React.js.<br>   - Back-end development using Node.js and Express.js for robust server-side applications.<br>   - Database design and management with MongoDB.<br><br> <strong>4. 🤖 Learning Journey : </strong> <br>   - Currently exploring the fascinating world of machine learning.<br>   - Enthusiastically diving into topics like data science, neural networks, and AI algorithms.<br>   - Actively seeking opportunities to apply machine learning concepts to real-world problems.<br><br>5. <strong> 🛠️ Tools and Technologies: </strong> <br>   - Version control with Git and GitHub.<br>   - Experience with package managers like npm.<br>   <br><strong> 6. 📚 Education : </strong> <br>   - Final year student pursuing a degree in Computer Engineering.<br><br><strong> 7. 💡 Projects :</strong><br> - AI powered Shopping Cart .<br>- Voice controlled NEWS App.<br>- Multipurpose Language Translation Website Bot<br>- Text Translator App.<br>- Booking Site and many more...<br><br><strong>8. 🔗 Connect with Me :<br></strong>   - LinkedIn - [www.linkedin.com/in/pranav-babar-aa0341223](https://www.linkedin.com/in/pranav-babar-aa0341223).<br>   - Instagram - pranav_babar14.<br><br><strong> 9. 🏆 Achievements : </strong> <br>   - Completed Google Cloud Badges with more than 20 skill badges.<br>   - Semi-Finalist in intercollege coding competition.<br><br><strong> 10. 🌱 Future Goals : </strong> <br>    🤖 Explore Advanced Machine Learning:<br>     - Delve deeper into machine learning concepts and explore advanced topics like deep learning, natural language processing (NLP), and computer vision.<br><br>    🔍 Contribute to Open Source:<br>     - Actively participate in open source projects to collaborate with the community and contribute to meaningful initiatives.<br><br>     🤝 Networking and Collaboration :<br>   - Foster collaborations within the tech community, attend conferences, and engage in networking opportunities to learn from and share experiences with peers.<br><br><br>
 
-***
 
-# 💫 Hi, I'm Pranav Babar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranav-babar-aa0341223) 
 
-👨‍💻 Final year Computer Engineering graduate (CGPA: **9.02**) with **1+ year experience** at **TCS** and a passion for full-stack development & AI.
-
-🚀 **Full-Stack Developer** | **MERN Stack** | **Machine Learning Enthusiast** | **TCS BANCS Specialist**
-
-***
-
-## 🛠️ Professional Experience
-
-**Tata Consultancy Services (TCS)**  
-*Software Engineer*  
-**Duration:** 1+ Year  
-**Technologies:** SOAP APIs, BANCS Services, Internet Banking Integration  
-- Developed and transformed BANCS services for seamless internet banking integration  
-- Worked extensively with SOAP APIs for secure financial service integrations  
-- Collaborated in enterprise-level banking solutions delivery  
-
-***
-
-## 🎓 Education
-**B.E. Computer Engineering**  
-*CGPA: 9.02/10*  
-Final Year Graduate
-
-***
-
-## 🌐 Core Skills
-
-### **Full-Stack Development (MERN)**
-```
-Frontend: React.js, Next.js, MUI, Bootstrap, JavaScript, HTML5, CSS3
-Backend: Node.js, Express.js
-Database: MongoDB, MySQL
-APIs: RESTful APIs, SOAP APIs
-```
-
-### **Tools & Technologies**
-```
-Version Control: Git, GitHub
-Dev Tools: npm, Nodemon
-OS: Linux
-```
-
-***
-
-## 💻 Tech Stack
-                  
-
-***
-
-## 🚀 Featured Projects
-
-### **🤖 AI Powered Shopping Cart**
-- Intelligent product recommendations using ML algorithms
-- Real-time cart optimization and price prediction
-- Full-stack MERN implementation
-
-### **🎤 Voice Controlled NEWS App**
-- Speech-to-text news consumption
-- Real-time news aggregation
-- Responsive React frontend
-
-### **🌐 Multipurpose Language Translation Website Bot**
-- Real-time multi-language translation
-- Chatbot integration for seamless UX
-- RESTful API backend
-
-### **📱 Text Translator App**
-- Advanced NLP-powered translation
-- Offline support capabilities
-- Cross-platform compatibility
-
-**[More Projects →](https://github.com/Pranav2320?tab=repositories)**
-
-***
-
-## 📊 GitHub Stats
-<br/>
-<br/>
-
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![https://github-readme-stats.vercel.app/api?username=Pranav2320&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=Pranav2320&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![https://github-readme-streak-stats.herokuapp.com/?user=Pranav2320&theme=nightowl&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=Pranav2320&theme=nightowl&hide_border=false)<br/>
+![https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2320&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2320&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-
-
-***
-
-## 🏅 Achievements
-- **20+ Google Cloud Skill Badges** completed
-- **Semi-Finalist** - Intercollege Coding Competition
-- **1+ Year Professional Experience** at TCS
-
-***
-
-## 🌱 Current Focus & Goals
-
-**🤖 A Reliable Backend Developer**
-- To learn and dwelve more into backend development learning about devops and cloud.
-
-**🔍 Open Source Contributions**
-- Active GitHub community participation
-- Meaningful project contributions
-
-**🤝 Tech Community**
-- Networking & conference participation
-- Knowledge sharing & collaboration
-
-***
-
-## 🌐 Connect with Me
-
-
-***
+![https://github-profile-trophy.vercel.app/?username=Pranav2320&theme=radical&no-frame=false&no-bg=true&margin-w=4](https://github-profile-trophy.vercel.app/?username=Pranav2320&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
+![https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Pranav2320&icon=1&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( [https://gprm.itsvg.in](https://gprm.itsvg.in) ) -->
 
 
-***
-
-[
-
-***
-
-**Ready to collaborate on exciting projects! 🚀**
-
+Know that i have a 1 year experience at TATA Consultancy services working in BANCS with soap api mainly transforming bancs services to the integration for internet banking. Also i have worked on javascript frameworks well before in clg but now i have almost forgot  it all . so better make it accordingly . completed my cse engineering with a cgpa of 9.02 . keep tha animations intact add tech skills logos where ever necessary. make it a professional ready to paste readme file.

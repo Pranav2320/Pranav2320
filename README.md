@@ -22,6 +22,3 @@
 [![](https://visitcount.itsvg.in/api?id=Pranav2320&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( [https://gprm.itsvg.in](https://gprm.itsvg.in) ) -->
-
-
-Know that i have a 1 year experience at TATA Consultancy services working in BANCS with soap api mainly transforming bancs services to the integration for internet banking. Also i have worked on javascript frameworks well before in clg but now i have almost forgot  it all . so better make it accordingly . completed my cse engineering with a cgpa of 9.02 . keep tha animations intact add tech skills logos where ever necessary. make it a professional ready to paste readme file.

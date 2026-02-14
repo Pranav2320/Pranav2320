@@ -1,4 +1,3 @@
-Here's a polished and updated version of your GitHub README, reflecting your recent graduation, CGPA, professional experience, and current Spring Boot focus while acknowledging your MERN background from college.
 
 ***
 

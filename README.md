@@ -1,4 +1,3 @@
-Here's a polished, professional GitHub README tailored to your full profile, incorporating your TCS experience, updated education details, and MERN focus while keeping all animations and visuals intact.
 
 ***
 
@@ -127,4 +126,3 @@ OS: Linux
 
 **Ready to collaborate on exciting projects! 🚀**
 
-Would you like me to adjust the project descriptions with more technical details or modify any section for better emphasis?

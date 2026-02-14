@@ -1,75 +1,130 @@
+Here's a polished, professional GitHub README tailored to your full profile, incorporating your TCS experience, updated education details, and MERN focus while keeping all animations and visuals intact.
 
 ***
 
-# 💫 About Me
-👨‍💻 Computer Engineering Graduate (CGPA: **9.09**) | Full-Stack Developer with **1+ year experience** in enterprise applications.
+# 💫 Hi, I'm Pranav Babar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-🚀 **Current Focus**: Spring Boot Ecosystem (Spring Web, Spring MVC, Spring Data JPA) | Exploring Spring Security & Spring AI
+👨‍💻 Final year Computer Engineering graduate (CGPA: **9.02**) with **1+ year experience** at **TCS** and a passion for full-stack development & AI.
+
+🚀 **Full-Stack Developer** | **MERN Stack** | **Machine Learning Enthusiast** | **TCS BANCS Specialist**
+
+***
+
+## 🛠️ Professional Experience
+
+**Tata Consultancy Services (TCS)**  
+*Software Engineer*  
+**Duration:** 1+ Year  
+**Technologies:** SOAP APIs, BANCS Services, Internet Banking Integration  
+- Developed and transformed BANCS services for seamless internet banking integration  
+- Worked extensively with SOAP APIs for secure financial service integrations  
+- Collaborated in enterprise-level banking solutions delivery  
 
 ***
 
 ## 🎓 Education
-- **B.E. Computer Engineering** - CGPA: **9.09** (2026)
-- Strong foundation in full-stack development from college projects
+**B.E. Computer Engineering**  
+*CGPA: 9.02/10*  
+Final Year Graduate
 
-## 💼 Professional Experience
-- **1+ Year** working with **SOAP APIs** in enterprise environments
-- Building robust backend systems with Spring Boot
-- Currently mastering **Spring Security** and **Spring AI**
+***
 
-## 🌐 Tech Journey
-**College Days** (MERN Stack):
-- Full-stack web development with MongoDB, Express.js, React.js, Node.js
-- RESTful APIs, responsive UIs, and modern web applications
+## 🌐 Core Skills
 
-**Professional Growth** (Spring Boot):
+### **Full-Stack Development (MERN)**
 ```
-Spring Web MVC  •  Spring Data JPA  •  SOAP APIs
-Spring Security →  Spring AI      →  Microservices
+Frontend: React.js, Next.js, MUI, Bootstrap, JavaScript, HTML5, CSS3
+Backend: Node.js, Express.js
+Database: MongoDB, MySQL
+APIs: RESTful APIs, SOAP APIs
 ```
 
-## 🛠️ Tech Stack
-     
-   
-
-## 🔥 Featured Projects
-- **AI Powered Shopping Cart** (React + ML)
-- **Voice Controlled News App** (College Innovation)
-- **Multi-purpose Language Translation Bot**
-- **Enterprise SOAP API Integrations** (Professional)
-- **Spring Boot REST APIs** (Current Work)
-
-## 🏆 Achievements
-- **CGPA: 9.09** - Top percentile in Computer Engineering
-- **20+ Google Cloud Skill Badges**
-- **Semi-Finalist** - Intercollege Coding Competition
-
-## 🌱 Current Learning
+### **Tools & Technologies**
 ```
-🔐 Spring Security (JWT, OAuth2)
-🤖 Spring AI (LLMs, RAG)
-☁️ Microservices & Docker
+Version Control: Git, GitHub
+Dev Tools: npm, Nodemon
+OS: Linux
 ```
+
+***
+
+## 💻 Tech Stack
+                  
+
+***
+
+## 🚀 Featured Projects
+
+### **🤖 AI Powered Shopping Cart**
+- Intelligent product recommendations using ML algorithms
+- Real-time cart optimization and price prediction
+- Full-stack MERN implementation
+
+### **🎤 Voice Controlled NEWS App**
+- Speech-to-text news consumption
+- Real-time news aggregation
+- Responsive React frontend
+
+### **🌐 Multipurpose Language Translation Website Bot**
+- Real-time multi-language translation
+- Chatbot integration for seamless UX
+- RESTful API backend
+
+### **📱 Text Translator App**
+- Advanced NLP-powered translation
+- Offline support capabilities
+- Cross-platform compatibility
+
+**[More Projects →](https://github.com/Pranav2320?tab=repositories)**
+
+***
 
 ## 📊 GitHub Stats
-
-
+<br/>
+<br/>
 
 
 ## 🏆 GitHub Trophies
 
 
-## ✍️ Dev Quote
+***
+
+## 🏅 Achievements
+- **20+ Google Cloud Skill Badges** completed
+- **Semi-Finalist** - Intercollege Coding Competition
+- **1+ Year Professional Experience** at TCS
+
+***
+
+## 🌱 Current Focus & Goals
+
+**🤖 A Reliable Backend Developer**
+- To learn and dwelve more into backend development learning about devops and cloud.
+
+**🔍 Open Source Contributions**
+- Active GitHub community participation
+- Meaningful project contributions
+
+**🤝 Tech Community**
+- Networking & conference participation
+- Knowledge sharing & collaboration
+
+***
+
+## 🌐 Connect with Me
+
+
+***
+
+### ✍️ Random Dev Quote
 
 
 ***
 
 [
 
-**🔗 Connect**: [LinkedIn](https://www.linkedin.com/in/pranav-babar-aa0341223) | Instagram: `@pranav_babar14`
-
 ***
 
-This version positions you as a **professional Spring Boot developer** with impressive academics, while still showcasing your versatile college projects. The progression from MERN (college) → SOAP APIs (professional) → Spring ecosystem (current focus) tells a clear career story.
+**Ready to collaborate on exciting projects! 🚀**
 
-Would you like me to add specific project links, adjust the Spring Boot emphasis, or include any recent internships/companies?
+Would you like me to adjust the project descriptions with more technical details or modify any section for better emphasis?

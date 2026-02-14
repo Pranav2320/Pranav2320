@@ -1,24 +1,76 @@
-# 💫 About Me:
-<br> 👨‍💻  Final year Computer Engineering student with a passion for technology and innovation.<br><br>🚀<strong> Skills : </strong> <br>   - Proficient in the MERN (MongoDB, Express.js, React.js, Node.js) stack.<br>   - Strong foundation in web development, RESTful APIs, and full-stack applications.<br><br> <strong>🌐 Web Development : </strong> <br>   - Developed interactive and responsive web applications.<br>   - Implemented front-end designs using modern frameworks like React.js.<br>   - Back-end development using Node.js and Express.js for robust server-side applications.<br>   - Database design and management with MongoDB.<br><br> <strong>4. 🤖 Learning Journey : </strong> <br>   - Currently exploring the fascinating world of machine learning.<br>   - Enthusiastically diving into topics like data science, neural networks, and AI algorithms.<br>   - Actively seeking opportunities to apply machine learning concepts to real-world problems.<br><br>5. <strong> 🛠️ Tools and Technologies: </strong> <br>   - Version control with Git and GitHub.<br>   - Experience with package managers like npm.<br>   <br><strong> 6. 📚 Education : </strong> <br>   - Final year student pursuing a degree in Computer Engineering.<br><br><strong> 7. 💡 Projects :</strong><br> - AI powered Shopping Cart .<br>- Voice controlled NEWS App.<br>- Multipurpose Language Translation Website Bot<br>- Text Translator App.<br>- Booking Site and many more...<br><br><strong>8. 🔗 Connect with Me :<br></strong>   - LinkedIn - www.linkedin.com/in/pranav-babar-aa0341223.<br>   - Instagram - pranav_babar14.<br><br><strong> 9. 🏆 Achievements : </strong> <br>   - Completed Google Cloud Badges with more than 20 skill badges.<br>   - Semi-Finalist in intercollege coding competition.<br><br><strong> 10. 🌱 Future Goals : </strong> <br>    🤖 Explore Advanced Machine Learning:<br>     - Delve deeper into machine learning concepts and explore advanced topics like deep learning, natural language processing (NLP), and computer vision.<br><br>    🔍 Contribute to Open Source:<br>     - Actively participate in open source projects to collaborate with the community and contribute to meaningful initiatives.<br><br>     🤝 Networking and Collaboration :<br>   - Foster collaborations within the tech community, attend conferences, and engage in networking opportunities to learn from and share experiences with peers.<br><br><br>
+Here's a polished and updated version of your GitHub README, reflecting your recent graduation, CGPA, professional experience, and current Spring Boot focus while acknowledging your MERN background from college.
+
+***
+
+# 💫 About Me
+👨‍💻 Computer Engineering Graduate (CGPA: **9.09**) | Full-Stack Developer with **1+ year experience** in enterprise applications.
+
+🚀 **Current Focus**: Spring Boot Ecosystem (Spring Web, Spring MVC, Spring Data JPA) | Exploring Spring Security & Spring AI
+
+***
+
+## 🎓 Education
+- **B.E. Computer Engineering** - CGPA: **9.09** (2026)
+- Strong foundation in full-stack development from college projects
+
+## 💼 Professional Experience
+- **1+ Year** working with **SOAP APIs** in enterprise environments
+- Building robust backend systems with Spring Boot
+- Currently mastering **Spring Security** and **Spring AI**
+
+## 🌐 Tech Journey
+**College Days** (MERN Stack):
+- Full-stack web development with MongoDB, Express.js, React.js, Node.js
+- RESTful APIs, responsive UIs, and modern web applications
+
+**Professional Growth** (Spring Boot):
+```
+Spring Web MVC  •  Spring Data JPA  •  SOAP APIs
+Spring Security →  Spring AI      →  Microservices
+```
+
+## 🛠️ Tech Stack
+     
+   
+
+## 🔥 Featured Projects
+- **AI Powered Shopping Cart** (React + ML)
+- **Voice Controlled News App** (College Innovation)
+- **Multi-purpose Language Translation Bot**
+- **Enterprise SOAP API Integrations** (Professional)
+- **Spring Boot REST APIs** (Current Work)
+
+## 🏆 Achievements
+- **CGPA: 9.09** - Top percentile in Computer Engineering
+- **20+ Google Cloud Skill Badges**
+- **Semi-Finalist** - Intercollege Coding Competition
+
+## 🌱 Current Learning
+```
+🔐 Spring Security (JWT, OAuth2)
+🤖 Spring AI (LLMs, RAG)
+☁️ Microservices & Docker
+```
+
+## 📊 GitHub Stats
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pranav-babar-aa0341223) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pranav2320&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Pranav2320&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2320&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pranav2320&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Pranav2320&icon=1&color=1)](https://visitcount.itsvg.in)
+## ✍️ Dev Quote
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+***
+
+[
+
+**🔗 Connect**: [LinkedIn](https://www.linkedin.com/in/pranav-babar-aa0341223) | Instagram: `@pranav_babar14`
+
+***
+
+This version positions you as a **professional Spring Boot developer** with impressive academics, while still showcasing your versatile college projects. The progression from MERN (college) → SOAP APIs (professional) → Spring ecosystem (current focus) tells a clear career story.
+
+Would you like me to add specific project links, adjust the Spring Boot emphasis, or include any recent internships/companies?
